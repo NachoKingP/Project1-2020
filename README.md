@@ -24,9 +24,10 @@ Dec. 2008 through Feb. 2009— (Housing Bubble) vs. Jan. 2020 through Mar. 2020-
             stockdataload.ipynb - loads in djia stock data and generates graphs
             Stock market.ipynb - Generates plots for the stock market data
             UE_barcharts.ipynb - Generates barcharts for the Unemployment data created in unemployment-development.ipynb
-            unemployment-development.ipynb - loads data form trendingeconomics.com and parses data, generating two files needed for pulling
+            unemployment-development.ipynb - loads data from trendingeconomics.com and parses data, generating two files for other code
                 charts.  Also pulls in COVID data and parses that, generating two charts.
-            Unemployment_Rate-map.html - Heatmap of US showing unemployment rate data per state.\
+            Unemployment_Rate-map.html - Heatmap of US showing unemployment rate data per state.
+        Old Presentations - This folder contains our drafts of the presentation.
         output - Folder containing all charts in image form, ready for viewing.
 
 # Hypothesis
