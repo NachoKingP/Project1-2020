@@ -43,8 +43,13 @@ Based on the time period we have available to us for COVID-19, with only 3 month
 
 # Sources
 DJIA Data: Yahoo Finance https://finance.yahoo.com/quote/%5EDJI/history?
+
 Stock Data: Yahoo Finance API pip install yfinance
+
 COVID Data: The New York Times https://github.com/nytimes/covid-19-data
+
 Unemployment Data: tradingeconomics.com https://tradingeconomics.com/united-states/unemployment-rate
+
 Unemployment Rate by State: https://www.bls.gov/
+
 Data Plot Sources: https://plotly.com/, https://pypi.org/project/chart-studio/
