@@ -8,6 +8,7 @@ Dec. 2008 through Feb. 2009— (Housing Bubble) vs. Jan. 2020 through Mar. 2020-
     The following modules must be installed to plot all our graphs
         plotly - pip install plotly
         chart_studio - pip install chart_studio
+        yfinance - pip install yfinance
 
 # File Structure
     Folders
