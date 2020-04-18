@@ -39,4 +39,4 @@ The linear regression plot of the DJIA vs. COVID cases showed that there was a P
 
 Our data on unemployment is incomplete, as the unemployment rate for April is as-of-yet unavailable. The data through March showed a trend towards correlation, however there is preliminary April data that shows the number of unemployed will skyrocket by the end of this month.
 
-Based on the time period we have available to us for COVID-19, with only 3 months of complete data, there is a trend towards showing that our hypothesis was in fact correct.  However, we would not be able to make a definitive conclusion without more complete data sets available to us.
+Based on the time period we have available to us for COVID-19, with only 3 months of complete data, there is a trend towards showing that our hypothesis was in fact correct.  However, at this time, we can not make a definitive conclusion due to the fact that the 2020 recession is ongoing, and we would need the data for the whole recession to do so.
